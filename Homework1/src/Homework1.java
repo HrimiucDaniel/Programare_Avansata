@@ -7,6 +7,10 @@ public class Homework1 {
         }
         return  false;
     }
+    public static void timenano(){
+        System.out.print("time in nanoseconds = ");
+        System.out.println(System.nanoTime());
+    }
     public static void main(String args[]){
      int n = 0, p = 0, m;
      char c[];
@@ -87,8 +91,9 @@ public class Homework1 {
                  break;
              }
          }
-         System.out.println();
+        // System.out.println();
      }
+     timenano();
     }
 
 
