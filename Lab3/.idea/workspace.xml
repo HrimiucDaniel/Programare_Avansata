@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02e9b81a-8f8c-4d01-9999-621aa5cef207" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab2/src/Lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Router.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Algorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Algorithm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework2/out/production/Homework2/ComputerLab.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/out/production/Homework2/ComputerLab.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Event.class" afterDir="false" />
@@ -25,6 +11,24 @@
       <change beforePath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Room.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/out/production/Homework2/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework2/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework2/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Comparable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Lab3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Lab3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Network.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Network.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Router.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Router.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comparable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Router.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

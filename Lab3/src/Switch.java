@@ -1,5 +1,9 @@
 import java.util.Map;
 
+/**
+ * The Switch class is a subclass of the Node class
+ */
+
 public class Switch extends Node{
     public Switch(String name) {
         super(name);
@@ -7,6 +11,8 @@ public class Switch extends Node{
 
     @Override
     public String toString() {
-        return "Switch{" + getName() + "}";
+        return "Switch{" +
+                "name='" + name + '\'' +
+                '}';
     }
 }

@@ -1,3 +1,8 @@
+/**
+ * The Computer class which is a subclass of the Node class but also implements the Identifiable and Storage interfaces containing an adress and a storage capacity as atributes
+ *
+ */
+
 public class Computer extends Node implements Identifiable, Storage{
     private String address;
     private int storageCapacity;
@@ -21,6 +26,11 @@ public class Computer extends Node implements Identifiable, Storage{
 
     @Override
     public String toString() {
-        return "Computer{" + getName() + "}";
+        return "Computer{" +
+                "address='" + address + '\'' +
+                ", storageCapacity=" + storageCapacity +
+                ", name= " + name + '\'' +
+
+                '}';
     }
 }
