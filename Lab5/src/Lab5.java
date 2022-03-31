@@ -13,6 +13,6 @@ public class Lab5 {
         c1.add(a1);
         c1.add(a1);c1.add(a1);c1.add(a1);
 
-        CatalogUtil.save(c1,"C:\\Users\\Rogue EX\\Desktop\\New folder\\txt2.txt");
+        CatalogUtil.save(c1,"C:\\Users\\Rogue EX\\Desktop\\New folder\\txt3.txt");
     }
 }

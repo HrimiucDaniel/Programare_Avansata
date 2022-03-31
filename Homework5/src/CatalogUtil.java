@@ -9,7 +9,7 @@ public class CatalogUtil {
     public static Catalog load(String path) throws IOException {
         Catalog catalog = new Catalog();
         try (var oos = new ObjectInputStream(new FileInputStream(path))){
-          catalog = (Catalog) oos.readObject();
+            catalog = (Catalog) oos.readObject();
 
         } catch (ClassNotFoundException e) {
             e.printStackTrace();

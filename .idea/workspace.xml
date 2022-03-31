@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="550d6616-c53c-4517-8b45-879d6d0911b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab2/src/Lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/Algorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/Algorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/ComputerLab.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/ComputerLab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/LectureHall.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/LectureHall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/out/production/Homework2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/out/production/Homework2/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/out/production/Lab3/Lab3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/out/production/Lab3/Lab3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/src/Lab3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26W9UNAkOyW669V1KmZjJkVgt6t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="550d6616-c53c-4517-8b45-879d6d0911b7" name="Changes" comment="" />
+      <created>1647527659692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647527659692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
