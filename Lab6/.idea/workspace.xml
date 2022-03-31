@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd67c33-bf53-4d88-b537-16bf919790da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Homework5/src/command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConfigPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DrawingPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/out/production/Homework5/Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/out/production/Homework5/Commands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/out/production/Homework5/Homework5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/out/production/Homework5/Homework5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/out/production/Homework5/LoadCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/out/production/Homework5/LoadCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/src/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/src/Commands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/src/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/src/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework5/src/LoadCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/src/LoadCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +48,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab6" />
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Lab6" />
     </list>
     <recent_temporary>
       <list>

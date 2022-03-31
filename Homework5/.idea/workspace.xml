@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e39a4f7-4695-4f57-8b3c-8667998e5fbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/Lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/ConfigPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/ControlPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/DrawingPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/Lab6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework5/Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework5/Commands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework5/Homework5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework5/Homework5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework5/LoadCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework5/LoadCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoadCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoadCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SaveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SaveCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ToStringCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToStringCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ViewCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewCommand.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e39a4f7-4695-4f57-8b3c-8667998e5fbd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
