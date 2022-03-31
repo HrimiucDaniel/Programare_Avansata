@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e39a4f7-4695-4f57-8b3c-8667998e5fbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/ConfigPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/ControlPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/DrawingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/Lab6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6/src/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework5/Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework5/Commands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework5/Homework5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework5/Homework5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework5/LoadCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework5/LoadCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoadCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoadCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SaveCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SaveCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToStringCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToStringCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewCommand.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="278j6aTc2jy6yHxcEx91U0HwOhz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework5" />
+      <module name="Homework5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e39a4f7-4695-4f57-8b3c-8667998e5fbd" name="Changes" comment="" />
+      <created>1648708436113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648708436113</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
