@@ -141,10 +141,10 @@ public class DrawingPanel extends JPanel {
         Graphics2D g = (Graphics2D) graphics;
        if (sticks) paintSticks(g);
        paintGrid(g);
-        graphics.drawImage(image, 0, 0, this);
+       graphics.drawImage(image, 0, 0, this);
 
 
-        //paintStones(g);
+
     }
     public void paintSticks(Graphics2D graphics) {
         Random rand = new Random();
