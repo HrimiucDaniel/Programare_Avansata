@@ -3,14 +3,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-/**
- * Modifica wait notify all
- * ele nu se intampla una dupa alta
- * adk 3 nu i ultima
- * numara cate se termina
- * si dupa verifica cand se termina toate
- * opreste
- */
 import static java.lang.Thread.sleep;
 
 public class Player implements Runnable{
@@ -232,12 +224,7 @@ public class Player implements Runnable{
                 game.getBoard().AddWord(this, word);
                 scor_total += x;
             } else System.out.println(this.getName() + ": 0 puncte");
-       //     game.Inc();
-          //  if (game.getInc() == game.getPlayersCount()) {game.setAvailableTrue();notifyAll();}
-     //  System.out.println(game.isAvailable());
-       //     while (game.isAvailable() == false) {
-         //   if (game.getInc()== game.getPlayersCount()) System.out.println("Inca is aici");
-      //    }
+
             sleep(50);
 
             return true;
