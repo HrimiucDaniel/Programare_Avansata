@@ -30,7 +30,7 @@ public class Retea {
         for(String s:fr) {
           //  if (messages.get(s)!=null) lista = messages.get(s);
             System.out.println(name+":"+message+s);
-            lista.add(message);
+            lista.add(name+":"+message);
             messages.put(s,lista);
         }
 
@@ -45,7 +45,7 @@ public class Retea {
         List<String> ss = messages.get(name);
         for(String s:ss){
            sb.append(s);
-         //  sb.append("\n");
+           sb.append("\n");
 
         }
         String s = sb.toString();
